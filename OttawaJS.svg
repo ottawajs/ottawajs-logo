@@ -7,9 +7,9 @@
   node grey #46483E
   jsconf yellow #f7df1e
   NOT jsconf lighter #F3E071
-  NOT jsconf darker #DEC748
+  NOT jsconf darker #DEC91B
   -->
-  <path fill="#DEC748" d="M71,460 L30,0 481,0 440,460 255,512"/>
+  <path fill="#DEC91B" d="M71,460 L30,0 481,0 440,460 255,512"/>
   <path fill="#f7df1e" d="M256,472 L405,431 440,37 256,37"/>
   <!-- <path fill="#8CC84B" d="M256,472 L107,431 72,37 256,37"/> -->
 
