@@ -6,9 +6,10 @@ Logo for OttawaJS
 We need a few graphics assets for use on the website and such.
 
 First Draft:
+
 <img src="https://raw.github.com/ottawajs/ottawajs-logo/master/OttawaJS.png"  width="150" alt="OttawaJS">
 
-
+<hr >
 Here are some inspirations:
 
 <img src="https://raw.github.com/ottawajs/ottawajs-logo/master/jsconf.jpg"  width="100" alt="JSConf">
