@@ -3,7 +3,10 @@ ottawajs-logo
 
 Logo for OttawaJS
 
-We need a few graphics asset for use on the website and such.
+We need a few graphics assets for use on the website and such.
+
+First Draft:
+<img src="https://raw.github.com/ottawajs/ottawajs-logo/master/OttawaJS.svg"  width="100" alt="OttawaJS">
 
 Here are some inspirations:
 
