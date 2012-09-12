@@ -8,9 +8,6 @@ We need a few graphics assets for use on the website and such.
 First Draft:
 
 <img src="https://raw.github.com/ottawajs/ottawajs-logo/master/OttawaJS.png"  width="150" alt="OttawaJS">
-<br>
-As SVG:
-<img src="https://raw.github.com/ottawajs/ottawajs-logo/master/OttawaJS.svg"  width="150" alt="OttawaJS">
 
 <hr >
 Here are some sources of inspiration:
